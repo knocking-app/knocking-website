@@ -1,0 +1,14 @@
+.header {
+    height: 42px;
+    padding: 12px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    box-shadow: 0 2px 3px #ccc;
+    background-color: var(--primary-color);
+    color: #fff;
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 100;
+}
